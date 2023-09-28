@@ -1,6 +1,10 @@
 <img src="preview.jpg">
 
-<p>Desafio Stage 5 -  Biscoito da Sorte</p>
+<h1 align="center">
+    Biscoito da Sorte
+</h1>
+
+<p>Desafio Stage 5 | Curso Explorer</p>
 
 <p>💻 Projeto</p>
 <p>O Biscoito da sorte é um um site com frases desmotivacionais para alegrar o seu dia.</p>
@@ -18,4 +22,3 @@
 <p>📝 Licença</p>
 <p>Esse projeto está sob a licença MIT.</p>
 
-<p>Esse projeto faz parte do Curso Explorer desenvolvido pela Rocketseat.</p>
